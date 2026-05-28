@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">motionfocus</string>
+    <string name="title_activity_main">motionfocus</string>
+    <string name="package_name">com.motionfocus.tarporta</string>
+    <string name="custom_url_scheme">com.motionfocus.tarporta</string>
+</resources>
